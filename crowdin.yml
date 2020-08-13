@@ -1,5 +1,4 @@
 files:
   - source: /*.csv
     translation: /translations/%language%/%original_file_name%
-    multilingual_spreadsheet: 1
-    scheme: 'identifier,context,source_phrase,no,uk'
+    scheme: 'identifier,context,source_or_translation'
